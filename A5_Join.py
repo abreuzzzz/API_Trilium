@@ -18,11 +18,11 @@ client = gspread.authorize(creds)
 
 # === IDs das planilhas ===
 planilhas_ids = {
-    "Financeiro_contas_a_receber_Trilium": "1wB-f-ywlbYh0L9Mh0pd2XfRyUUyCuF_ba0mpQjWT4S8",
-    "Financeiro_contas_a_pagar_Trilium": "1zIhxmFzHYmNdKyawzhElFl4Vl1MO3bc6QOapO2ynYwk",
-    "Detalhe_centro_pagamento": "1QJmlNhgjfiFo4_BScyW4l7A2Zkk2n5WQsWdQA_8uWU0",
-    "Detalhe_centro_recebimento": "1F85E2_p3qlZu9vtkr3s_dCAb86DqT19IROsI_gH8gqQ",
-    "Financeiro_Completo_Trilium": "1EiJ_GSWLYAamMmmnIJKHDogP3MtMo7yJoZmwy-mjeHY"
+    "Financeiro_contas_a_receber_Trilium": "1aGlWFn_rDLyT8Uj4AbNGq0zLCdLqBi-g5WTcuOOfK_Y",
+    "Financeiro_contas_a_pagar_Trilium": "1lm7WaSndkKxqQRixNi1dTTuv61poMDdiCOUjbmT7JGw",
+    "Detalhe_centro_pagamento": "1reauHAiQYaAkuVRIpfwIbHULxQ61bLf4616Gybtm_L8",
+    "Detalhe_centro_recebimento": "1UrHRtxbuA-39fjF8IkCfvA_WufV6K4UQBtdt33k4PLA",
+    "Financeiro_Completo_Trilium": "1DJOFiqwINqZHO-4O3aH94HhCfHCdaRZ5SCA6-MMeyTM"
 }
 
 # === Função para abrir e ler planilha por ID ===
