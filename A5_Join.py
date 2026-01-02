@@ -17,7 +17,7 @@ client = gspread.authorize(creds)
 
 # === IDs das planilhas ===
 planilhas_ids = {
-    "Financeiro_contas_a_receber_Trilium": "1aGlWFn_rDLyT8Uj4AbNGq0zLCdLqBi-g5WTcuOOfK_Y",
+        "Financeiro_contas_a_receber_Trilium": "1aGlWFn_rDLyT8Uj4AbNGq0zLCdLqBi-g5WTcuOOfK_Y",
     "Financeiro_contas_a_pagar_Trilium": "1lm7WaSndkKxqQRixNi1dTTuv61poMDdiCOUjbmT7JGw",
     "Financeiro_Completo_Trilium": "1DJOFiqwINqZHO-4O3aH94HhCfHCdaRZ5SCA6-MMeyTM"
 }
